@@ -1,2 +1,18 @@
-# ALL_MultiOmics
+# Title
 Pediatric Acute Lymphoblastic Leukemia in the Era of Multi-Omics
+
+# Authors
+Julia Sulyaeva [1,2]
+Dea Gogishvili [1,2]
+Olga Krali [1,2]
+Maria A. Globisch [1,2]
+Jessica Nordlund [1,2]
+
+[1] Molecular Precision Medicine, Department of Medical Sciences, Uppsala University, Uppsala, Sweden
+[2] Science for Life Laboratory, Uppsala University, Uppsala, Sweden
+
+# Abstract
+Pediatric acute lymphoblastic leukemia (ALL) is a malignancy of immature B- or T-cell precursors in the bone marrow and blood. Over the past decade, advances in omics technologies have transformed our understanding of the molecular basis of ALL, leading to improvements in diagnostics, risk stratification, and the development of targeted therapies. This review explores how genomics, epigenomics, transcriptomics, proteomics, metabolomics, and integrative approaches have enabled the discovery of novel ALL subtypes, refined classification systems, and found new therapeutic targets. Genomic profiling approaches, including gene expression microarrays and next-generation sequencing, have uncovered recurrent molecular subtypes, which were previously undetectable by conventional methods. Epigenomic analyses have identified subtype-specific DNA methylation and chromatin patterns associated with treatment response. Proteomic and metabolomic studies complement these findings by exposing the functional consequences of molecular alterations on leukemia biology and treatment response. Emerging single-cell technologies combined with computational modeling, are further unraveling cellular diversity, resistance mechanisms, and interactions between leukemic blasts and the bone marrow micro-environment. Together, these advances are opening new therapeutic avenues, while underscoring the complexity of treatment resistance and relapse. We also discuss current challenges including technical limitations, cost, and the need to standardize protocols. Looking forward, advancement of multi-omics and artificial intelligence holds promise for truly personalized treatment strategies for patients with ALL.
+
+![image](/timeline_figure.png)
+Figure 1. Publication trends in pediatric acute lymphoblastic leukemia (ALL) research from 2000 to 2025. (A) Annual number of publications in six omics categories identified through PubMed searches. To prevent inflation of total publication count by publications utilizing several omics, a fractional contribution 1/n is assigned to each publication for each of n omics categories to which the publication is assigned.(B) Annual number of publications using a certain number of different omics categories. (C) Total number of publications using the most common combinations of omics between 2000-2025.
