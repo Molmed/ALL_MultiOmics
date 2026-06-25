@@ -2,13 +2,14 @@
 Pediatric Acute Lymphoblastic Leukemia in the Era of Multi-Omics
 
 # Authors
-Julia Sulyaeva [1,2]
-Dea Gogishvili [1,2]
-Olga Krali [1,2]
-Maria A. Globisch [1,2]
-Jessica Nordlund [1,2]
+- Julia Sulyaeva [1,2]
+- Dea Gogishvili [1,2]
+- Olga Krali [1,2]
+- Maria A. Globisch [1,2]
+- Jessica Nordlund [1,2]
 
 [1] Molecular Precision Medicine, Department of Medical Sciences, Uppsala University, Uppsala, Sweden
+
 [2] Science for Life Laboratory, Uppsala University, Uppsala, Sweden
 
 # Abstract
